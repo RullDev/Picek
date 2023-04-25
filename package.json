@@ -1,7 +1,7 @@
 {
-  "name": "@bochilteam/scraper",
-  "version": "4.0.22-alpha.0",
-  "description": "scraper module",
+  "name": "@masrull/scraper",
+  "version": "1.0.0-alpha.0",
+  "description": "scrapper module for whatsapp",
   "exports": {
     ".": {
       "types": "./lib/@types/index.d.ts",
@@ -31,7 +31,7 @@
     "type": "git",
     "url": "git+https://github.com/BochilTeam/scraper.git"
   },
-  "author": "BochilTeam",
+  "author": "MasRull",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/BochilTeam/scraper/issues"
