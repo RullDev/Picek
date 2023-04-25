@@ -1,7 +1,7 @@
 {
   "name": "@masrull/scraper",
-  "version": "1.0.0-alpha.0",
-  "description": "scrapper module for whatsapp",
+  "version": "4.0.22-alpha.0",
+  "description": "scraper module",
   "exports": {
     ".": {
       "types": "./lib/@types/index.d.ts",
@@ -29,24 +29,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RullDev/scraper.git"
+    "url": "git+https://github.com/BochilTeam/scraper.git"
   },
-  "keywords": [
-    "api",
-    "npm",
-    "scrape",
-    "nodejs",
-    "javscript",
-    "yarn",
-    "module",
-    "botwhatsapp"
-    ],
   "author": "MasRull",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/RullDev/scraper/issues"
+    "url": "https://github.com/BochilTeam/scraper/issues"
   },
-  "homepage": "https://github.com/RullDev/scraper#readme",
+  "homepage": "https://github.com/BochilTeam/scraper#readme",
   "devDependencies": {
     "@types/chai": "^4.3.0",
     "@types/mocha": "^10.0.0",
